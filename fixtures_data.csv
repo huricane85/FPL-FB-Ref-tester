@@ -1,0 +1,381 @@
+event,team_a,team_h,kickoff_time
+,Manchester Utd,Burnley,
+,Aston Villa,Manchester City,
+1,Arsenal,Fulham,2020-09-12T11:30:00Z
+1,Southampton,Crystal Palace,2020-09-12T14:00:00Z
+1,Leeds Utd,Liverpool,2020-09-12T16:30:00Z
+1,Newcastle utd,West Ham Utd,2020-09-12T19:00:00Z
+1,Leicester City,West Brom,2020-09-13T13:00:00Z
+1,Everton,Tottenham,2020-09-13T15:30:00Z
+1,Wolverhampton,Sheffield Utd,2020-09-14T17:00:00Z
+1,Chelsea,Brighton,2020-09-14T19:15:00Z
+2,West Brom,Everton,2020-09-19T11:30:00Z
+2,Fulham,Leeds Utd,2020-09-19T14:00:00Z
+2,Crystal Palace,Manchester Utd,2020-09-19T16:30:00Z
+2,West Ham Utd,Arsenal,2020-09-19T19:00:00Z
+2,Tottenham,Southampton,2020-09-20T11:00:00Z
+2,Brighton,Newcastle utd,2020-09-20T13:00:00Z
+2,Liverpool,Chelsea,2020-09-20T15:30:00Z
+2,Burnley,Leicester City,2020-09-20T18:00:00Z
+2,Sheffield Utd,Aston Villa,2020-09-21T17:00:00Z
+2,Manchester City,Wolverhampton,2020-09-21T19:15:00Z
+3,Manchester Utd,Brighton,2020-09-26T11:30:00Z
+3,Everton,Crystal Palace,2020-09-26T14:00:00Z
+3,Chelsea,West Brom,2020-09-26T16:30:00Z
+3,Southampton,Burnley,2020-09-26T19:00:00Z
+3,Leeds Utd,Sheffield Utd,2020-09-27T11:00:00Z
+3,Newcastle utd,Tottenham,2020-09-27T13:00:00Z
+3,Leicester City,Manchester City,2020-09-27T15:30:00Z
+3,Wolverhampton,West Ham Utd,2020-09-27T18:00:00Z
+3,Aston Villa,Fulham,2020-09-28T16:45:00Z
+3,Arsenal,Liverpool,2020-09-28T19:00:00Z
+4,Crystal Palace,Chelsea,2020-10-03T11:30:00Z
+4,Brighton,Everton,2020-10-03T14:00:00Z
+4,Manchester City,Leeds Utd,2020-10-03T16:30:00Z
+4,Burnley,Newcastle utd,2020-10-03T19:00:00Z
+4,West Ham Utd,Leicester City,2020-10-04T11:00:00Z
+4,West Brom,Southampton,2020-10-04T11:00:00Z
+4,Sheffield Utd,Arsenal,2020-10-04T13:00:00Z
+4,Fulham,Wolverhampton,2020-10-04T13:00:00Z
+4,Tottenham,Manchester Utd,2020-10-04T15:30:00Z
+4,Liverpool,Aston Villa,2020-10-04T18:15:00Z
+5,Liverpool,Everton,2020-10-17T11:30:00Z
+5,Southampton,Chelsea,2020-10-17T14:00:00Z
+5,Arsenal,Manchester City,2020-10-17T16:30:00Z
+5,Manchester Utd,Newcastle utd,2020-10-17T19:00:00Z
+5,Fulham,Sheffield Utd,2020-10-18T11:00:00Z
+5,Brighton,Crystal Palace,2020-10-18T13:00:00Z
+5,West Ham Utd,Tottenham,2020-10-18T15:30:00Z
+5,Aston Villa,Leicester City,2020-10-18T18:15:00Z
+5,Burnley,West Brom,2020-10-19T16:30:00Z
+5,Wolverhampton,Leeds Utd,2020-10-19T19:00:00Z
+6,Leeds Utd,Aston Villa,2020-10-23T19:00:00Z
+6,Manchester City,West Ham Utd,2020-10-24T11:30:00Z
+6,Crystal Palace,Fulham,2020-10-24T14:00:00Z
+6,Chelsea,Manchester Utd,2020-10-24T16:30:00Z
+6,Sheffield Utd,Liverpool,2020-10-24T19:00:00Z
+6,Everton,Southampton,2020-10-25T14:00:00Z
+6,Newcastle utd,Wolverhampton,2020-10-25T16:30:00Z
+6,Leicester City,Arsenal,2020-10-25T19:15:00Z
+6,West Brom,Brighton,2020-10-26T17:30:00Z
+6,Tottenham,Burnley,2020-10-26T20:00:00Z
+7,Crystal Palace,Wolverhampton,2020-10-30T20:00:00Z
+7,Manchester City,Sheffield Utd,2020-10-31T12:30:00Z
+7,Chelsea,Burnley,2020-10-31T15:00:00Z
+7,West Ham Utd,Liverpool,2020-10-31T17:30:00Z
+7,Southampton,Aston Villa,2020-11-01T12:00:00Z
+7,Everton,Newcastle utd,2020-11-01T14:00:00Z
+7,Arsenal,Manchester Utd,2020-11-01T16:30:00Z
+7,Brighton,Tottenham,2020-11-01T19:15:00Z
+7,West Brom,Fulham,2020-11-02T17:30:00Z
+7,Leicester City,Leeds Utd,2020-11-02T20:00:00Z
+8,Newcastle utd,Southampton,2020-11-06T20:00:00Z
+8,Manchester Utd,Everton,2020-11-07T12:30:00Z
+8,Aston Villa,Arsenal,2020-11-07T15:00:00Z
+8,Burnley,Brighton,2020-11-07T15:00:00Z
+8,Leeds Utd,Crystal Palace,2020-11-07T15:00:00Z
+8,Tottenham,West Brom,2020-11-07T15:00:00Z
+8,Fulham,West Ham Utd,2020-11-07T15:00:00Z
+8,Sheffield Utd,Chelsea,2020-11-07T17:30:00Z
+8,Wolverhampton,Leicester City,2020-11-08T14:00:00Z
+8,Liverpool,Manchester City,2020-11-08T16:30:00Z
+9,Chelsea,Newcastle utd,2020-11-21T12:30:00Z
+9,Brighton,Aston Villa,2020-11-21T15:00:00Z
+9,Crystal Palace,Burnley,2020-11-21T15:00:00Z
+9,Everton,Fulham,2020-11-21T15:00:00Z
+9,Leicester City,Liverpool,2020-11-21T15:00:00Z
+9,West Brom,Manchester Utd,2020-11-21T15:00:00Z
+9,Southampton,Wolverhampton,2020-11-21T15:00:00Z
+9,Manchester City,Tottenham,2020-11-21T17:30:00Z
+9,West Ham Utd,Sheffield Utd,2020-11-22T14:00:00Z
+9,Arsenal,Leeds Utd,2020-11-22T16:30:00Z
+10,Liverpool,Brighton,2020-11-28T12:30:00Z
+10,Wolverhampton,Arsenal,2020-11-28T15:00:00Z
+10,Newcastle utd,Crystal Palace,2020-11-28T15:00:00Z
+10,Fulham,Leicester City,2020-11-28T15:00:00Z
+10,Burnley,Manchester City,2020-11-28T15:00:00Z
+10,Sheffield Utd,West Brom,2020-11-28T15:00:00Z
+10,Leeds Utd,Everton,2020-11-28T17:30:00Z
+10,Manchester Utd,Southampton,2020-11-29T14:00:00Z
+10,Tottenham,Chelsea,2020-11-29T16:30:00Z
+10,Aston Villa,West Ham Utd,2020-11-30T20:00:00Z
+11,Newcastle utd,Aston Villa,2020-12-05T15:00:00Z
+11,Southampton,Brighton,2020-12-05T15:00:00Z
+11,Everton,Burnley,2020-12-05T15:00:00Z
+11,Leeds Utd,Chelsea,2020-12-05T15:00:00Z
+11,Wolverhampton,Liverpool,2020-12-05T15:00:00Z
+11,Fulham,Manchester City,2020-12-05T15:00:00Z
+11,Leicester City,Sheffield Utd,2020-12-05T15:00:00Z
+11,Arsenal,Tottenham,2020-12-05T15:00:00Z
+11,Crystal Palace,West Brom,2020-12-05T15:00:00Z
+11,Manchester Utd,West Ham Utd,2020-12-05T15:00:00Z
+12,Tottenham,Crystal Palace,2020-12-12T15:00:00Z
+12,Chelsea,Everton,2020-12-12T15:00:00Z
+12,Liverpool,Fulham,2020-12-12T15:00:00Z
+12,West Ham Utd,Leeds Utd,2020-12-12T15:00:00Z
+12,Manchester City,Manchester Utd,2020-12-12T15:00:00Z
+12,West Brom,Newcastle utd,2020-12-12T15:00:00Z
+12,Sheffield Utd,Southampton,2020-12-12T15:00:00Z
+12,Aston Villa,Wolverhampton,2020-12-12T15:00:00Z
+12,Burnley,Arsenal,2020-12-13T15:00:00Z
+12,Brighton,Leicester City,2020-12-13T15:00:00Z
+13,Southampton,Arsenal,2020-12-15T19:45:00Z
+13,Burnley,Aston Villa,2020-12-15T19:45:00Z
+13,Brighton,Fulham,2020-12-15T19:45:00Z
+13,Newcastle utd,Leeds Utd,2020-12-15T19:45:00Z
+13,Everton,Leicester City,2020-12-15T19:45:00Z
+13,Manchester Utd,Sheffield Utd,2020-12-15T19:45:00Z
+13,Crystal Palace,West Ham Utd,2020-12-15T19:45:00Z
+13,Chelsea,Wolverhampton,2020-12-15T19:45:00Z
+13,Tottenham,Liverpool,2020-12-16T20:00:00Z
+13,West Brom,Manchester City,2020-12-16T20:00:00Z
+14,Sheffield Utd,Brighton,2020-12-19T15:00:00Z
+14,Wolverhampton,Burnley,2020-12-19T15:00:00Z
+14,West Ham Utd,Chelsea,2020-12-19T15:00:00Z
+14,Liverpool,Crystal Palace,2020-12-19T15:00:00Z
+14,Arsenal,Everton,2020-12-19T15:00:00Z
+14,Leeds Utd,Manchester Utd,2020-12-19T15:00:00Z
+14,Fulham,Newcastle utd,2020-12-19T15:00:00Z
+14,Manchester City,Southampton,2020-12-19T15:00:00Z
+14,Leicester City,Tottenham,2020-12-19T15:00:00Z
+14,Aston Villa,West Brom,2020-12-19T15:00:00Z
+15,Chelsea,Arsenal,2020-12-26T15:00:00Z
+15,Crystal Palace,Aston Villa,2020-12-26T15:00:00Z
+15,Southampton,Fulham,2020-12-26T15:00:00Z
+15,Burnley,Leeds Utd,2020-12-26T15:00:00Z
+15,Manchester Utd,Leicester City,2020-12-26T15:00:00Z
+15,West Brom,Liverpool,2020-12-26T15:00:00Z
+15,Newcastle utd,Manchester City,2020-12-26T15:00:00Z
+15,Everton,Sheffield Utd,2020-12-26T15:00:00Z
+15,Brighton,West Ham Utd,2020-12-26T15:00:00Z
+15,Tottenham,Wolverhampton,2020-12-26T15:00:00Z
+16,Arsenal,Brighton,2020-12-28T15:00:00Z
+16,Sheffield Utd,Burnley,2020-12-28T15:00:00Z
+16,Aston Villa,Chelsea,2020-12-28T15:00:00Z
+16,Leicester City,Crystal Palace,2020-12-28T15:00:00Z
+16,Manchester City,Everton,2020-12-28T15:00:00Z
+16,Wolverhampton,Manchester Utd,2020-12-28T15:00:00Z
+16,Liverpool,Newcastle utd,2020-12-28T15:00:00Z
+16,West Ham Utd,Southampton,2020-12-28T15:00:00Z
+16,Fulham,Tottenham,2020-12-28T15:00:00Z
+16,Leeds Utd,West Brom,2020-12-28T15:00:00Z
+17,Wolverhampton,Brighton,2021-01-02T15:00:00Z
+17,Fulham,Burnley,2021-01-02T15:00:00Z
+17,Manchester City,Chelsea,2021-01-02T15:00:00Z
+17,Sheffield Utd,Crystal Palace,2021-01-02T15:00:00Z
+17,West Ham Utd,Everton,2021-01-02T15:00:00Z
+17,Aston Villa,Manchester Utd,2021-01-02T15:00:00Z
+17,Leicester City,Newcastle utd,2021-01-02T15:00:00Z
+17,Liverpool,Southampton,2021-01-02T15:00:00Z
+17,Leeds Utd,Tottenham,2021-01-02T15:00:00Z
+17,Arsenal,West Brom,2021-01-02T15:00:00Z
+18,Crystal Palace,Arsenal,2021-01-12T19:45:00Z
+18,Tottenham,Aston Villa,2021-01-12T19:45:00Z
+18,Manchester Utd,Fulham,2021-01-12T19:45:00Z
+18,Southampton,Leeds Utd,2021-01-12T19:45:00Z
+18,Chelsea,Leicester City,2021-01-12T19:45:00Z
+18,Newcastle utd,Sheffield Utd,2021-01-12T19:45:00Z
+18,West Brom,West Ham Utd,2021-01-12T19:45:00Z
+18,Everton,Wolverhampton,2021-01-12T19:45:00Z
+18,Burnley,Liverpool,2021-01-13T20:00:00Z
+18,Brighton,Manchester City,2021-01-13T20:00:00Z
+19,Newcastle utd,Arsenal,2021-01-16T15:00:00Z
+19,Everton,Aston Villa,2021-01-16T15:00:00Z
+19,Chelsea,Fulham,2021-01-16T15:00:00Z
+19,Brighton,Leeds Utd,2021-01-16T15:00:00Z
+19,Southampton,Leicester City,2021-01-16T15:00:00Z
+19,Manchester Utd,Liverpool,2021-01-16T15:00:00Z
+19,Crystal Palace,Manchester City,2021-01-16T15:00:00Z
+19,Tottenham,Sheffield Utd,2021-01-16T15:00:00Z
+19,Burnley,West Ham Utd,2021-01-16T15:00:00Z
+19,West Brom,Wolverhampton,2021-01-16T15:00:00Z
+20,Fulham,Brighton,2021-01-26T19:45:00Z
+20,Aston Villa,Burnley,2021-01-26T19:45:00Z
+20,Leicester City,Everton,2021-01-26T19:45:00Z
+20,Sheffield Utd,Manchester Utd,2021-01-26T20:00:00Z
+20,Manchester City,West Brom,2021-01-26T20:00:00Z
+20,Wolverhampton,Chelsea,2021-01-27T19:45:00Z
+20,Leeds Utd,Newcastle utd,2021-01-27T19:45:00Z
+20,Arsenal,Southampton,2021-01-27T19:45:00Z
+20,Liverpool,Tottenham,2021-01-27T19:45:00Z
+20,West Ham Utd,Crystal Palace,2021-01-27T20:00:00Z
+21,Manchester Utd,Arsenal,2021-01-30T15:00:00Z
+21,Tottenham,Brighton,2021-01-30T15:00:00Z
+21,Burnley,Chelsea,2021-01-30T15:00:00Z
+21,Wolverhampton,Crystal Palace,2021-01-30T15:00:00Z
+21,Newcastle utd,Everton,2021-01-30T15:00:00Z
+21,Leeds Utd,Leicester City,2021-01-30T15:00:00Z
+21,Sheffield Utd,Manchester City,2021-01-30T15:00:00Z
+21,Aston Villa,Southampton,2021-01-30T15:00:00Z
+21,Fulham,West Brom,2021-01-30T15:00:00Z
+21,Liverpool,West Ham Utd,2021-01-30T15:00:00Z
+22,West Ham Utd,Aston Villa,2021-02-02T19:45:00Z
+22,Manchester City,Burnley,2021-02-02T19:45:00Z
+22,Leicester City,Fulham,2021-02-02T19:45:00Z
+22,Everton,Leeds Utd,2021-02-02T19:45:00Z
+22,West Brom,Sheffield Utd,2021-02-02T19:45:00Z
+22,Arsenal,Wolverhampton,2021-02-02T19:45:00Z
+22,Southampton,Manchester Utd,2021-02-02T20:00:00Z
+22,Crystal Palace,Newcastle utd,2021-02-03T19:45:00Z
+22,Chelsea,Tottenham,2021-02-03T19:45:00Z
+22,Brighton,Liverpool,2021-02-03T20:00:00Z
+23,Arsenal,Aston Villa,2021-02-06T15:00:00Z
+23,Brighton,Burnley,2021-02-06T15:00:00Z
+23,West Ham Utd,Fulham,2021-02-06T15:00:00Z
+23,Crystal Palace,Leeds Utd,2021-02-06T15:00:00Z
+23,Manchester City,Liverpool,2021-02-06T15:00:00Z
+23,Everton,Manchester Utd,2021-02-06T15:00:00Z
+23,Southampton,Newcastle utd,2021-02-06T15:00:00Z
+23,Chelsea,Sheffield Utd,2021-02-06T15:00:00Z
+23,West Brom,Tottenham,2021-02-06T15:00:00Z
+23,Leicester City,Wolverhampton,2021-02-06T15:00:00Z
+24,Leeds Utd,Arsenal,2021-02-13T15:00:00Z
+24,Aston Villa,Brighton,2021-02-13T15:00:00Z
+24,Newcastle utd,Chelsea,2021-02-13T15:00:00Z
+24,Burnley,Crystal Palace,2021-02-13T15:00:00Z
+24,Fulham,Everton,2021-02-13T15:00:00Z
+24,Liverpool,Leicester City,2021-02-13T15:00:00Z
+24,Tottenham,Manchester City,2021-02-13T15:00:00Z
+24,Wolverhampton,Southampton,2021-02-13T15:00:00Z
+24,Manchester Utd,West Brom,2021-02-13T15:00:00Z
+24,Sheffield Utd,West Ham Utd,2021-02-13T15:00:00Z
+25,Manchester City,Arsenal,2021-02-20T15:00:00Z
+25,Leicester City,Aston Villa,2021-02-20T15:00:00Z
+25,Crystal Palace,Brighton,2021-02-20T15:00:00Z
+25,West Brom,Burnley,2021-02-20T15:00:00Z
+25,Sheffield Utd,Fulham,2021-02-20T15:00:00Z
+25,Everton,Liverpool,2021-02-20T15:00:00Z
+25,Newcastle utd,Manchester Utd,2021-02-20T15:00:00Z
+25,Chelsea,Southampton,2021-02-20T15:00:00Z
+25,Tottenham,West Ham Utd,2021-02-20T15:00:00Z
+25,Leeds Utd,Wolverhampton,2021-02-20T15:00:00Z
+26,Manchester Utd,Chelsea,2021-02-27T15:00:00Z
+26,Fulham,Crystal Palace,2021-02-27T15:00:00Z
+26,Southampton,Everton,2021-02-27T15:00:00Z
+26,Aston Villa,Leeds Utd,2021-02-27T15:00:00Z
+26,Arsenal,Leicester City,2021-02-27T15:00:00Z
+26,West Ham Utd,Manchester City,2021-02-27T15:00:00Z
+26,Wolverhampton,Newcastle utd,2021-02-27T15:00:00Z
+26,Liverpool,Sheffield Utd,2021-02-27T15:00:00Z
+26,Burnley,Tottenham,2021-02-27T15:00:00Z
+26,Brighton,West Brom,2021-02-27T15:00:00Z
+27,Wolverhampton,Aston Villa,2021-03-06T15:00:00Z
+27,Leicester City,Brighton,2021-03-06T15:00:00Z
+27,Arsenal,Burnley,2021-03-06T15:00:00Z
+27,Everton,Chelsea,2021-03-06T15:00:00Z
+27,Fulham,Liverpool,2021-03-06T15:00:00Z
+27,Manchester Utd,Manchester City,2021-03-06T15:00:00Z
+27,Southampton,Sheffield Utd,2021-03-06T15:00:00Z
+27,Crystal Palace,Tottenham,2021-03-06T15:00:00Z
+27,Newcastle utd,West Brom,2021-03-06T15:00:00Z
+27,Leeds Utd,West Ham Utd,2021-03-06T15:00:00Z
+28,Tottenham,Arsenal,2021-03-13T15:00:00Z
+28,West Brom,Crystal Palace,2021-03-13T15:00:00Z
+28,Burnley,Everton,2021-03-13T15:00:00Z
+28,Manchester City,Fulham,2021-03-13T15:00:00Z
+28,Chelsea,Leeds Utd,2021-03-13T15:00:00Z
+28,Sheffield Utd,Leicester City,2021-03-13T15:00:00Z
+28,West Ham Utd,Manchester Utd,2021-03-13T15:00:00Z
+28,Aston Villa,Newcastle utd,2021-03-13T15:00:00Z
+28,Brighton,Southampton,2021-03-13T15:00:00Z
+28,Liverpool,Wolverhampton,2021-03-13T15:00:00Z
+29,Newcastle utd,Brighton,2021-03-20T15:00:00Z
+29,Leicester City,Burnley,2021-03-20T15:00:00Z
+29,Manchester Utd,Crystal Palace,2021-03-20T15:00:00Z
+29,Leeds Utd,Fulham,2021-03-20T15:00:00Z
+29,Chelsea,Liverpool,2021-03-20T15:00:00Z
+29,Wolverhampton,Manchester City,2021-03-20T15:00:00Z
+29,Aston Villa,Sheffield Utd,2021-03-20T15:00:00Z
+29,Southampton,Tottenham,2021-03-20T15:00:00Z
+29,Everton,West Brom,2021-03-20T15:00:00Z
+29,Arsenal,West Ham Utd,2021-03-20T15:00:00Z
+30,Liverpool,Arsenal,2021-04-03T14:00:00Z
+30,Fulham,Aston Villa,2021-04-03T14:00:00Z
+30,West Brom,Chelsea,2021-04-03T14:00:00Z
+30,Crystal Palace,Everton,2021-04-03T14:00:00Z
+30,Sheffield Utd,Leeds Utd,2021-04-03T14:00:00Z
+30,Manchester City,Leicester City,2021-04-03T14:00:00Z
+30,Brighton,Manchester Utd,2021-04-03T14:00:00Z
+30,Tottenham,Newcastle utd,2021-04-03T14:00:00Z
+30,Burnley,Southampton,2021-04-03T14:00:00Z
+30,West Ham Utd,Wolverhampton,2021-04-03T14:00:00Z
+31,Everton,Brighton,2021-04-10T14:00:00Z
+31,Newcastle utd,Burnley,2021-04-10T14:00:00Z
+31,Chelsea,Crystal Palace,2021-04-10T14:00:00Z
+31,Wolverhampton,Fulham,2021-04-10T14:00:00Z
+31,Aston Villa,Liverpool,2021-04-10T14:00:00Z
+31,Leeds Utd,Manchester City,2021-04-10T14:00:00Z
+31,Arsenal,Sheffield Utd,2021-04-10T14:00:00Z
+31,Manchester Utd,Tottenham,2021-04-10T14:00:00Z
+31,Southampton,West Brom,2021-04-10T14:00:00Z
+31,Leicester City,West Ham Utd,2021-04-10T14:00:00Z
+32,Fulham,Arsenal,2021-04-17T14:00:00Z
+32,Manchester City,Aston Villa,2021-04-17T14:00:00Z
+32,Brighton,Chelsea,2021-04-17T14:00:00Z
+32,Tottenham,Everton,2021-04-17T14:00:00Z
+32,Liverpool,Leeds Utd,2021-04-17T14:00:00Z
+32,West Brom,Leicester City,2021-04-17T14:00:00Z
+32,Burnley,Manchester Utd,2021-04-17T14:00:00Z
+32,West Ham Utd,Newcastle utd,2021-04-17T14:00:00Z
+32,Crystal Palace,Southampton,2021-04-17T14:00:00Z
+32,Sheffield Utd,Wolverhampton,2021-04-17T14:00:00Z
+33,Everton,Arsenal,2021-04-24T14:00:00Z
+33,West Brom,Aston Villa,2021-04-24T14:00:00Z
+33,Tottenham,Fulham,2021-04-24T14:00:00Z
+33,Manchester Utd,Leeds Utd,2021-04-24T14:00:00Z
+33,Crystal Palace,Leicester City,2021-04-24T14:00:00Z
+33,Newcastle utd,Liverpool,2021-04-24T14:00:00Z
+33,Southampton,Manchester City,2021-04-24T14:00:00Z
+33,Brighton,Sheffield Utd,2021-04-24T14:00:00Z
+33,Chelsea,West Ham Utd,2021-04-24T14:00:00Z
+33,Burnley,Wolverhampton,2021-04-24T14:00:00Z
+34,Leeds Utd,Brighton,2021-05-01T14:00:00Z
+34,West Ham Utd,Burnley,2021-05-01T14:00:00Z
+34,Fulham,Chelsea,2021-05-01T14:00:00Z
+34,Manchester City,Crystal Palace,2021-05-01T14:00:00Z
+34,Aston Villa,Everton,2021-05-01T14:00:00Z
+34,Liverpool,Manchester Utd,2021-05-01T14:00:00Z
+34,Arsenal,Newcastle utd,2021-05-01T14:00:00Z
+34,Leicester City,Southampton,2021-05-01T14:00:00Z
+34,Sheffield Utd,Tottenham,2021-05-01T14:00:00Z
+34,Wolverhampton,West Brom,2021-05-01T14:00:00Z
+35,West Brom,Arsenal,2021-05-08T14:00:00Z
+35,Manchester Utd,Aston Villa,2021-05-08T14:00:00Z
+35,Burnley,Fulham,2021-05-08T14:00:00Z
+35,Tottenham,Leeds Utd,2021-05-08T14:00:00Z
+35,Newcastle utd,Leicester City,2021-05-08T14:00:00Z
+35,Southampton,Liverpool,2021-05-08T14:00:00Z
+35,Chelsea,Manchester City,2021-05-08T14:00:00Z
+35,Crystal Palace,Sheffield Utd,2021-05-08T14:00:00Z
+35,Everton,West Ham Utd,2021-05-08T14:00:00Z
+35,Brighton,Wolverhampton,2021-05-08T14:00:00Z
+36,West Ham Utd,Brighton,2021-05-11T18:45:00Z
+36,Leeds Utd,Burnley,2021-05-11T18:45:00Z
+36,Sheffield Utd,Everton,2021-05-11T18:45:00Z
+36,Leicester City,Manchester Utd,2021-05-11T19:00:00Z
+36,Liverpool,West Brom,2021-05-11T19:00:00Z
+36,Arsenal,Chelsea,2021-05-12T18:45:00Z
+36,Manchester City,Newcastle utd,2021-05-12T18:45:00Z
+36,Fulham,Southampton,2021-05-12T18:45:00Z
+36,Wolverhampton,Tottenham,2021-05-12T18:45:00Z
+36,Aston Villa,Crystal Palace,2021-05-12T19:00:00Z
+37,Manchester City,Brighton,2021-05-15T14:00:00Z
+37,Liverpool,Burnley,2021-05-15T14:00:00Z
+37,Leicester City,Chelsea,2021-05-15T14:00:00Z
+37,Arsenal,Crystal Palace,2021-05-15T14:00:00Z
+37,Wolverhampton,Everton,2021-05-15T14:00:00Z
+37,Fulham,Manchester Utd,2021-05-15T14:00:00Z
+37,Sheffield Utd,Newcastle utd,2021-05-15T14:00:00Z
+37,Leeds Utd,Southampton,2021-05-15T14:00:00Z
+37,Aston Villa,Tottenham,2021-05-15T14:00:00Z
+37,West Ham Utd,West Brom,2021-05-15T14:00:00Z
+38,Brighton,Arsenal,2021-05-23T15:00:00Z
+38,Chelsea,Aston Villa,2021-05-23T15:00:00Z
+38,Newcastle utd,Fulham,2021-05-23T15:00:00Z
+38,West Brom,Leeds Utd,2021-05-23T15:00:00Z
+38,Tottenham,Leicester City,2021-05-23T15:00:00Z
+38,Crystal Palace,Liverpool,2021-05-23T15:00:00Z
+38,Everton,Manchester City,2021-05-23T15:00:00Z
+38,Burnley,Sheffield Utd,2021-05-23T15:00:00Z
+38,Southampton,West Ham Utd,2021-05-23T15:00:00Z
+38,Manchester Utd,Wolverhampton,2021-05-23T15:00:00Z
